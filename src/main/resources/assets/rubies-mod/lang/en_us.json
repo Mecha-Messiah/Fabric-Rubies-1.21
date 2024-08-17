@@ -1,3 +1,5 @@
 {
-  "item.rubies-mod.ruby": "Ruby"
+  "item.rubies-mod.ruby": "Ruby",
+
+  "block.rubies-mod.ruby_block": "Block of Ruby"
 }
