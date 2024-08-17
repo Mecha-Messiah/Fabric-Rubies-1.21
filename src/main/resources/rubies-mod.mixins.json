@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.mecha.rubiesmod.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
