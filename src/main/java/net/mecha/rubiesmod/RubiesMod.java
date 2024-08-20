@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 
 //MOD ID STRING
 public class RubiesMod implements ModInitializer {
-	public static final String MOD_ID = "rubies-mod";
+	public static final String MOD_ID = "rubiesmod";
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	@Override

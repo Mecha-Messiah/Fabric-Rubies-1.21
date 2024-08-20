@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "rubies-mod:block/ruby_block"
+      "model": "rubiesmod:block/ruby_block"
     }
   }
 }

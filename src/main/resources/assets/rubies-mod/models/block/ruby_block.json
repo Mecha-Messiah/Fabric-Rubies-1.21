@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "rubies-mod:block/ruby_block"
+    "all": "rubiesmod:block/ruby_block"
   }
 }
