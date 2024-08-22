@@ -2,6 +2,8 @@
   "item.rubiesmod.ruby": "Ruby",
 
   "block.rubiesmod.ruby_block": "Block of Ruby",
+  "block.rubiesmod.ruby_ore": "Ruby Ore",
+  "block.rubiesmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
 
   "itemgroup.rubiesmod.rubies_group": "Rubies"
 }
