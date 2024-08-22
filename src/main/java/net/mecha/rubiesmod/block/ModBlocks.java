@@ -37,5 +37,5 @@ public class ModBlocks {
     public static void registerModBlocks() {
         RubiesMod.LOGGER.info("Registering Mod Blocks for " + RubiesMod.MOD_ID);
 
-        };
+        }
     }
