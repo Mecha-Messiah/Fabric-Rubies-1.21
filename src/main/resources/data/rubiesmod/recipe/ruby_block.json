@@ -1,13 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "building",
-  "ingredients": [
-    {
-      "item": "rubiesmod:ruby_block"
+  "key": {
+    "#": {
+      "item": "rubiesmod:ruby"
     }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
   ],
   "result": {
-    "count": 9,
-    "id": "rubiesmod:ruby"
+    "count": 1,
+    "id": "rubiesmod:ruby_block"
   }
 }
