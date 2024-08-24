@@ -9,6 +9,7 @@ import net.minecraft.util.Rarity;
 
 public class ModItems {
     public static final Item RUBY = registerItem("ruby", new Item(new Item.Settings()));
+
     public static final Item ARUBINUS_INGOT = registerItem("arubinus_ingot", new Item(new Item.Settings().fireproof().rarity(Rarity.RARE)));
 
 

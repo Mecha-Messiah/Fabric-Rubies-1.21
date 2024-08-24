@@ -17,9 +17,13 @@ public class ModBlocks {
             new Block(AbstractBlock.Settings.create().strength(5f,6f)
                     .requiresTool().sounds(BlockSoundGroup.METAL)));
 
+    public static final Block ARUBINUS_BLOCK = registerBlock("arubinus_block",
+            new Block(AbstractBlock.Settings.create().strength(50f,1200f).requiresTool().sounds(BlockSoundGroup.NETHERITE)));
+
     public static final Block RUBY_ORE = registerBlock("ruby_ore",
             new ExperienceDroppingBlock(UniformIntProvider.create(2, 5),
                     AbstractBlock.Settings.create().strength(3f).requiresTool()));
+
     public static final Block DEEPSLATE_RUBY_ORE = registerBlock("deepslate_ruby_ore",
             new ExperienceDroppingBlock(UniformIntProvider.create(3, 6),
                     AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.DEEPSLATE)));
