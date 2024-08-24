@@ -3,7 +3,7 @@
 	"id": "rubiesmod",
 	"version": "${version}",
 	"name": "Rubies Mod",
-	"description": "Minecraft mod which adds rubies and related items",
+	"description": "Minecraft mod which adds rubies and related items.",
 	"authors": [
 		"MechaMessiah"
 	],
