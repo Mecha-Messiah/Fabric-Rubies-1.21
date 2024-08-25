@@ -3,6 +3,7 @@ package net.mecha.rubiesmod.block;
 import net.mecha.rubiesmod.RubiesMod;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
+import net.minecraft.block.Blocks;
 import net.minecraft.block.ExperienceDroppingBlock;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
