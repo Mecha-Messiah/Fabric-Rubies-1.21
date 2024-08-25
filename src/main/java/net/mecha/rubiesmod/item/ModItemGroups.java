@@ -27,6 +27,10 @@ public class ModItemGroups {
                         entries.add(ModItems.ARUBINUS_INGOT);
 
                         entries.add(ModBlocks.ARUBINUS_BLOCK);
+
+                        entries.add(ModItems.NETHERITE_ROD);
+
+                        entries.add(ModItems.ARCHITECT_WAND);
                     }).build());
 
 
