@@ -31,6 +31,8 @@ public class ModItemGroups {
                         entries.add(ModItems.NETHERITE_ROD);
 
                         entries.add(ModItems.ARCHITECT_WAND);
+
+                        entries.add(ModBlocks.MAGIC_BLOCK);
                     }).build());
 
 

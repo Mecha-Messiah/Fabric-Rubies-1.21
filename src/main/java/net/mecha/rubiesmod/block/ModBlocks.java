@@ -1,6 +1,7 @@
 package net.mecha.rubiesmod.block;
 
 import net.mecha.rubiesmod.RubiesMod;
+import net.mecha.rubiesmod.block.custom.MagicBlock;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
@@ -20,6 +21,9 @@ public class ModBlocks {
 
     public static final Block ARUBINUS_BLOCK = registerBlock("arubinus_block",
             new Block(AbstractBlock.Settings.create().strength(50f,1200f).requiresTool().sounds(BlockSoundGroup.NETHERITE)));
+
+    public static final Block MAGIC_BLOCK = registerBlock("magic_block",
+            new MagicBlock(AbstractBlock.Settings.create().strength(1f).requiresTool()));
 
     public static final Block RUBY_ORE = registerBlock("ruby_ore",
             new ExperienceDroppingBlock(UniformIntProvider.create(2, 5),
