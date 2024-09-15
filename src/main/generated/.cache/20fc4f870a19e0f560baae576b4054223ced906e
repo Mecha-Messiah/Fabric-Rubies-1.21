@@ -1,0 +1,4 @@
+// 1.21	2024-09-15T14:46:47.452071	Rubies Mod/Tags for minecraft:block
+b2e4c09af1a65de36cc2cd9213c82b01d0764186 data\minecraft\tags\block\mineable\pickaxe.json
+78a58910d37e83a8c2bec04392ef45b65d5053d8 data\minecraft\tags\block\needs_iron_tool.json
+d5a5a6fcaffd50c8b7ee44f335f3d2a58de53fbe data\minecraft\tags\block\needs_diamond_tool.json
