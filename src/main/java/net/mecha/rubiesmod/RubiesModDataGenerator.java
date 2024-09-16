@@ -3,6 +3,7 @@ package net.mecha.rubiesmod;
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
 import net.mecha.rubiesmod.datagen.ModBlockTagProvider;
+import net.mecha.rubiesmod.datagen.ModItemTagProvider;
 
 //HOPEFULLY THIS WORKS
 public class RubiesModDataGenerator implements DataGeneratorEntrypoint {
@@ -11,5 +12,6 @@ public class RubiesModDataGenerator implements DataGeneratorEntrypoint {
 		FabricDataGenerator.Pack pack = fabricDataGenerator.createPack();
 
 		pack.addProvider(ModBlockTagProvider::new);
+		pack.addProvider(ModItemTagProvider::new);
 	}
 }
